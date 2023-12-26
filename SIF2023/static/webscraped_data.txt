@@ -1,0 +1,111 @@
+Punjab Heritage & Tourism Promotion Board : Agency has collected information for Places of Tourists' Interest i.e. Hotel, Historical Places, ATM, Bus Stop etc and shared it with Bhuvan to bring out Web based GIS solution catering interests of tourists and users. Visit portal: https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php?tourismid=1
+
+Punjab Remote Sensing Centre : Detailed GIS database of Amritsar city and Ludhiana Municipal Corporation have been provided by Punjab Remote Sensing Centre to bring location based applications for users in collaboration with Bhuvan. Basic amenities information, road network, ward boundaries etc are hosted on Bhuvan reaching public for visualization. Visit portal: https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php?tourismid=1
+
+Ludhiana Municipal Corporation : Ludhiana Municipal Corporation having rich information about its municipal area in collaboration with Punjab Remote Sensing Centre have shared it with Bhuvan to facilitate citizens to know about the wards and facilities available, various schemes executed by the government, grievances redressal system besides facilitating administrators/planners to have a one stop online planning tools towards better governance. Visit portal: https://bhuvan-app1.nrsc.gov.in/municipal/municipal.php
+
+Karnataka Forest Department : The state government of Karnataka has shared the data from forest department with Bhuvan. Application enables users to visualize forest fires, assets, changes in forest cover, villages, water bodies, landscapes, national parks, beat boundaries etc. Visit portal: https://bhuvan-app1.nrsc.gov.in/ka_forest/
+
+Himachal Pradesh Forest Department : Himachal Pradesh Forest Department has provided the administrative level data as well as management related information for visualizing it on Bhuvan platform. Portal provides a number of features i.e. forest fire alerts to officials through SMS, up to beat level administrative boundaries, climate vulnerability, wildlife related data visualization etc. Visit portal: https://bhuvan-app1.nrsc.gov.in/hp_forest/hpfd.php
+
+AIBP : Central Water Commission collaborated with NRSC/Bhuvan to bring out a portal which has inventory of projects carried under Phase-I, Phase-II and also tools, utilities for Satellite based online monitoring of the Phase-III projects. Visit portal: https://bhuvan-app1.nrsc.gov.in/aibp/aibp.php
+
+India Meteorological Department(IMD) - Nowcast Data: Visualization of IMD Nowcast datasets Fog and Thunderstorm on Bhuvan through spatial mashup by provision of Bhuvan Satellite imagery and Basemap as a OGC Compliant WMS Service. Visit portal: https://bhuvan-app1.nrsc.gov.in/imd/
+
+Pradhan Mantri Gram Sadak Yojana (PMGSY) under the Ministry of Rural Development was conceptualized and launched on 25th December, 2000 as a centrally sponsored scheme, with the broad objective of sustainable poverty reduction in rural areas. The main objective of PMGSY is to provide basic access by way of single all-weather road to all eligible unconnected habitations in the Core Network. Under PMGSY, approx. 6,26,034 km of length has been constructed till 31st March 2020. It is a challenge to manage such a gigantic activity using traditional methods, which is not only tedious and time-consuming but also difficult to ensure timely retrieval of the desired information.
+
+The use of Geo Informatics is taken up to help in effective planning, decision making and monitoring of PMGSY roads. The Tripartite Agreement on Use of Geo Informatics in Rural Road Projects under Pradhan Mantri Gram Sadak Yojana (PMGSY) was made and executed at New Delhi on 7th March, 2017 between National Rural Infrastructure Development Agency (NRIDA), National Remote Sensing Centre (NRSC) and Center for Geo-Informatics Application in Rural Development (CGARD). Under this project National Remote Sensing Centre (NRSC) and National Institute of Rural Development (NIRD) has jointly taken up to produce geospatial datasets for the country. This project is to extract and identify roads connectivity status in terms of length based on inputs provided by NRIDA.This includes generating a spatial database on road connectivity with respect to habitations connected under completed roads. Hence, it is essential to generate a rural road map based on satellite imagery for the roads sanctioned from the year 2000-01 onwards for further investigation and analysis.
+
+Water Resources Management Support: NRSC, ISRO and WRD, Maharashtra has initiated efforts for better utilization of information services through Bhuvan by active interaction, participation and contribution. Visit Portal: https://bhuvan-app1.nrsc.gov.in/mwrds/index.php
+
+Geo-tagging of Rashtriya Krishi Vikas Yojana (RKVY) : RKVY has been the flagship scheme of DAC&FW for achieving and sustaining the desired growth rate of agriculture and allied sectors in the country during 11th and 12th Five Year plan periods. Till date over 12000 projects have been sanctioned by the states under RKVY of which large number pertain to creation of infrastructure and assets. Geotagging initiative is taken up using an android app to precisely locate RKVY assets through Bhuvan Geoportal. Portal provides facility to visualise asset spread in the context of high resolution image backdrop with GIS analytical capabilities. Download 'Field Data Collection App for Android': https://bhuvan-app3.nrsc.gov.in/mobile_app/bhuvan_mobile_app.php?proj_code=106
+
+Disaster Services : Visit portal: https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php?id=fire
+
+Live CDMA Property Tax Data Mapping : Visit portal: https://bhuvan-app1.nrsc.gov.in/cdma/index.php
+
+Deltas of India : Visit portal: https://bhuvan-app1.nrsc.gov.in/deltas/index.php
+
+Ministry of Agriculture : Visit portal: https://bhuvan-app1.nrsc.gov.in/agriculture/agri.php
+
+Ministry of Mines : Visit portal: https://bhuvan-app1.nrsc.gov.in/mines/mines.php
+
+Baseline Studies on Water Use Efficiency (WUE) of Irrigation projects: The performance of the existing irrigation systems (particularly, the Major and Medium irrigation projects) suffer from low water use efficiency, distribution losses, poor operational maintenance and management of soil salinity, water logging and tail end problems. Space-borne multi-spectral data by virtue of synoptic coverage of a fairly large area at regular interval has been found to be very useful in generating information on the status of irrigation commands for objective evaluation and for taking up corrective measures. NRSC carried out performance evaluation of command areas using satellite remote sensing data across several irrigation projects in India. Baseline study of water use efficiency of 10 medium irrigation projects in Telangana and Andhra Pradesh States is conducted by NRSC in collaboration with WALAMTARI with the objectives to assess the irrigated area and irrigation system performance for the projects under consideration for the year 2016- 2017 with satellite inputs coupled with infield measurements. The portal depicts the various elements of the 10 medium irrigation projects under investigation. The various geo-spatial data sets cover administrative, infrastructure, topographic/terrain, thematic, hydrological, irrigation and socio-economic aspects. The portal hosts ground truth data collected by field functionaries. The portal also enables periodic updation of dynamic field data on irrigation canal supplies and reservoir storage. Visit portal: https://bhuvan-app1.nrsc.gov.in/walamtari/walamtari.php
+
+Ministry of Road Transport and Highways (National Highways Authority of India) : Visit portal: https://bhuvan-app1.nrsc.gov.in/toll/morth_nhai.php
+
+NCERT (Ministry of Education) - School Bhuvan : A portal providing map based learning to bring awareness among the students about country's natural resources, environment and their role in sustainable development. Vist portal: https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/
+
+Geospatial Governance : Visit portal: https://bhuvan-app1.nrsc.gov.in/sitemap/
+
+GIS portal - To Support RBI for mapping and effective management for all banks in India. Geotagging initiative is taken up using an android app to precisely locate RBI various banking units like Branch/ATMs/Administrative Office/Electronic Kiosk etc,. through Bhuvan Geoportal. Portal provides facility to visualise asset spread in the context of high resolution image backdrop with GIS analytical capabilities. This mapping system is a collaborative effort between Reserve Bank of India and National Remote Sensing Center, ISRO. For more information about RBI https://www.rbi.org.in/
+
+NOEDA Data Products: Visit page to get the details: https://bhuvan-app1.nrsc.gov.in/2dresources/bhuvanstore.php
+
+Centralised Resource Inventory System - CRIS : Visit portal: https://bhuvan-app1.nrsc.gov.in/moef_cris/
+
+Corona : Visit portal: https://bhuvan-app3.nrsc.gov.in/corona/
+
+Anganwadi (Ministry of Women & Child Development) : Visit portal: https://bhuvan-app1.nrsc.gov.in/anganwadi/
+
+Web View : Visit portal: https://bhuvan-app1.nrsc.gov.in/web_view/index.php
+
+About 'Lost River Saraswati' - The 'Lost Saraswati River' in NW India is the holiest and mightiest river of the Vedic Period (8000-5000 BP). The discovery of the sites of Harappan civilization along the banks of the Saraswati River indicates towards its mighty and magnanimity. Vedic Saraswati River originated in the Himalayas and flowed between Indus River in the west and Ganges River in the east through Punjab, Haryana, western Rajasthan and Gujarat. It is finally drained into Gulf of Kachchh in Arabian Sea. The Vedic Saraswati River disappeared around 5000 BP due to climatic and tectonic changes. It is believed that River Saraswati is still flowing below the Thar desert and its Himalayan connectivity is alive. The relict of this lost river is preserved as palaeochannels under the cover of aeolian sand / alluvium. Visit portal: https://bhuvan-app1.nrsc.gov.in/saraswati/saraswati.php
+
+Saraswati River in Ancient Literatures - The name `Saraswati' has been used in most of the ancient literatures like Vedas, Manusmriti, Mahabharata and Puranas: 1. Vedas - There are frequent references of River Saraswati in Vedic literature (80 times more than that of River Ganges). No other river has received so much importance and respect as Saraswati. The Vedic hymns are composed by different Rishis (scholars) in the glory of River Saraswati. (a) Rigveda - Vedic Saraswati is described as `Best of Mothers, Best of Rivers, Best of Goddesses`. (b) Yajurveda - Saraswati has five important tributaries viz. Drishadvati, Satudri (Sutlej), Chandrabagha (Chenab), Vipasa (Vyas) and Iravati (Ravi). All these rivers merge to Saraswati to meet Sindhu Sagar (the Arabian Sea). (c) Atharvaveda - God bestowed the people on the bank of the Saraswati, with sweet juicy barley, where generous Maruts became farmers & Indra as the Lord of agriculture. This Mantra suggests that farming of cereals was practiced on the fertile soil of Saraswati during Vedic times. 2. Manusmriti - The land between the Saraswati and Drishadvati is created by God; this land is defined as Brahmavarta. 3. Mahabharata - Mahabharata gives clear geographical accounts of a number of pilgrimage sites spread along the course of the Saraswati River. Lord Balaram after visiting a number of holy places reaches to Vinasana, the place where the Saraswati disappeared. During Mahabharata period, the discharge of water in Saraswati became extremely low. As a result, the river vanished in the desert sand at certain place along its regular course i.e. at Vinasana. Hence, the river channel appeared dry. 4. Purana - Rishi Markandeya, close to the place where he meditated and offered sacrifices saw Saraswati rising from the Plaksha tree (Pipal tree). The sage prayed and worshiped the rising river.
+
+Discovering `Lost River Saraswati' through Remote Sensing Techniques - Discovering the exact course of Vedic Saraswati River and its perennial source is a challenging task among the researchers due to lack of proper scientific database. The mystery is unravelled through modern tools like Remote Sensing and GIS by using multi-spectral and multi-resolution satellite images of optical and microwave data. ISRO centres could able to delineate most of the palaeochannels of Vedic Saraswati River and its linkage with the present day Himalayan Rivers.
+
+Linkages of Vedic Saraswati with Himalayan Rivers - (a) Linkage of Saraswati Nadi with Somb River at Adi Badri (b) Linkage of Saraswati Nadi with Yamuna River (c) Linkage of Saraswati Nadi with Vedic Saraswati (d) Linkage of Sutlej Palaeochannel with Vedic Saraswati (e) Linkage of Vedic Saraswati from Mannsarovar to Dwaraka
+
+Utility of Palaeochannel Maps - 1. Cultural Heritage: (a) Restoration of Historical sites and (b) Excavation of New Archaeological Sites. 2. Ground Water: (a) Groundwater exploration and (b) Groundwater recharge 3. Tourism Sector: (a) Renovation of temples and (b) Reconstruction of Ritual Sites along the bank of Saraswati River
+
+Haryana : Visit portal: https://bhuvan-app1.nrsc.gov.in/state/HR
+
+Weather Climate Environment Modelled Products : Visit portal: https://bhuvan-app1.nrsc.gov.in/narl/
+
+Punjab Forest : Visit portal: https://bhuvan-app1.nrsc.gov.in/pb_forest/
+
+Telangana Forest: Visit Portal: https://bhuvan-app1.nrsc.gov.in/ts_forest/
+
+Bhuvan Ganga (Geospatial Support for National Mission for Clean Ganga) : Visit portal: https://bhuvan-app1.nrsc.gov.in/mowr_ganga/
+
+Hot Weather outlook : Temperature-based Heat (TBH), Moisture and Temperature-based Heat (MTBH) maps indicate areas with potential for extreme heat conditions through daily maximum temperatures (in °C) and their deviation from climatological values. Visit portal: https://bhuvan-app1.nrsc.gov.in/heatwave/
+
+Geo-tagging of Assets created under Per Drop More Crop (PDMC) component of PMKSY using Geospatial Technologies : The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) was launched on 1st July, 2015 with the major objective of achieving convergence of investments in irrigation at the field level, expand cultivable area under assured irrigation, improve on-farm water use efficiency to reduce wastage of water, enhance the adoption of precision-irrigation and other water saving technologies is re-christened as Per Drop More Crop (PDMC).
+
+Bhuvan-Thematic Services facilitate the users to select, browse and query the Thematic Datasets from this portal. Users can consume these Thematic Datasets and integrate into their systems as OGC Web Services. Visit portal: https://bhuvan-app1.nrsc.gov.in/thematic/thematic/index.php
+
+Tourism Web GIS through Bhuvan facilitates the users to select the city/tourism places of their interest and find the places of interest, search nearby places along with routing. If you wish to share the data of your favorite city, please mail to bhuvan@nrsc.gov.in. Visit portal: https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php
+
+Objectives of the IWMP are to restore the ecological balance by harnessing, conserving and developing degraded natural resources such as soil, vegetative cover and water. The outcomes are prevention of soil run-off, regeneration of natural vegetation, rain water harvesting and recharging of the ground water table.
+
+IWMP-SRISHTI: A Web based GIS application (Geoportal) enabling the monitoring and evaluation of IWMP watersheds, using satellite remote sensing and sample field data using mobile smart phone applications has been realised. This Geoportal facilitates M&E of all IWMP watersheds for 10 states and 50 special watersheds in 16 states. The geoportal enables image and map display, monitoring tools, summary statistics of all the IWMP watersheds. The application enables National, State, District and watershed level access for information and report generation.
+
+Distribution of Flycatchers : Visit portal: https://bhuvan-app1.nrsc.gov.in/flycatchers/flycatchers.php
+
+Geographical Indications:GI : Visit portal: https://bhuvan-app1.nrsc.gov.in/geographicalindication/index.php
+
+Ministry of Human Resource Development: Visit portal: https://bhuvan-app1.nrsc.gov.in/mhrd_rusa/
+
+Three Dimension : Visit portal: https://bhuvan-app1.nrsc.gov.in/globe/3d.php
+
+Water Bodies Information System (WBIS) : Visit portal: https://bhuvan-wbis.nrsc.gov.in/
+
+Discussion Forum : https://bhuvan.nrsc.gov.in/forum
+
+NTR Vaidya Seva : Visit portal: https://bhuvan-app1.nrsc.gov.in/ntr
+
+A.P. State Housing Corporation: Visit portal: https://bhuvan-app1.nrsc.gov.in/apshcl
+
+Ministry of Housing and Urban Affairs - Housing for All (PMAY): Visit portal: https://bhuvan-app1.nrsc.gov.in/hfa/housing_for_all.php
+
+API: Using Bhuvan API, you can integrate different themes and resources available at Bhuvan into your own applications. Visit: https://bhuvan-app1.nrsc.gov.in/api/
+
+2D : Visit portal: https://bhuvan-app1.nrsc.gov.in/bhuvan2d/bhuvan/bhuvan2d.php
+
+Open Data Archive : Visit portal: https://bhuvan-app3.nrsc.gov.in/data/
+
+MGNREGA (Ministry of Rural Development) : Visit portal: https://bhuvan-app2.nrsc.gov.in/mgnrega/mgnrega_phase2.php
+
+Aadhaar Centers: Visit portal: https://bhuvan-app3.nrsc.gov.in/aadhaar/
